@@ -1,0 +1,25 @@
+﻿  Level_2_Operations.cpp
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(20): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(40): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(67): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(71): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(95): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(97): warning C4018: '>': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(115): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(117): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(135): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(156): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(159): warning C4018: '>': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(161): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(181): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(185): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(187): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(206): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(211): warning C4018: '<': signed/unsigned mismatch
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\level_2_operations.cpp(232): warning C4018: '<': signed/unsigned mismatch
+  polygons.cpp
+f:\books_programming\lynda - c++ advanced topics\polygons\polygons\polygons\polygons.cpp(156): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  polygons.vcxproj -> F:\Books_Programming\Lynda - C++ Advanced Topics\polygons\polygons\Debug\polygons.exe
